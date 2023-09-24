@@ -1,0 +1,27 @@
+body
+{
+  background-color: grey;
+  font-size: 50px;
+}
+.BiggerAndRed
+{
+  font-size: 100px;
+  color: red;
+  text-align: center;
+  font-weight: bolder;
+}
+#OneTimeYellowHUGE
+{
+  color: yellow;
+  font-size: 200px;
+}
+.Slanty
+{
+  font-style: italic;
+  letter-spacing: -15px;
+}
+
+#FontFun
+{
+  font-family: "Calibri", Calibri, sans-serif;
+}

@@ -1,0 +1,17 @@
+body
+{
+  background-color: red;
+}
+
+#liststyle
+{
+  color: green;
+  font-style: italic;
+}
+
+.listdesign
+{
+  font-size: 30px;
+  display: inline-block;
+
+}
