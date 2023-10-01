@@ -1,0 +1,36 @@
+.box{
+  border: purple 3px dotted;
+  padding-bottom: 10px;
+}
+
+#textinbox{
+text-align: center;
+margin-top: 250px;
+}
+
+#greentext{
+text-align: center;
+color: green;
+font-size: 12px;
+}
+
+#ornagetext{
+  color: orange;
+  font-size: 30px;
+}
+
+#redtext{
+  vertical-align: super;
+  color: red;
+  font-size: 40px;
+}
+
+#purpletext{
+  text-align: right;
+  color: purple;
+  font-size: 6px
+}
+
+#yellowtext{
+  color: yellow;
+}

@@ -1,0 +1,19 @@
+.box{
+  background-color: green;
+  
+  border: 2px dashed;
+}
+
+
+#redtext{
+  color: red;
+  font-size: 30px;
+}
+
+#darktext{
+  opacity: 0.2;
+}
+
+#purpletext{
+  color: purple;
+}
