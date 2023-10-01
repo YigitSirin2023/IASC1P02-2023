@@ -13,7 +13,7 @@ body{
 .textbox{
   margin: -400px 0% 10px 12%;
   padding: 10px;
-  width: 1420px;
+  width: 1160px;
   position: absolute;
   border: green 2px dashed;
 }
@@ -28,4 +28,10 @@ body{
   width: 5px;
   position: absolute;
   border: yellow 2px dashed;
+}
+
+.img{
+  margin: -150px 100% -550px -1700%;
+  width: 200px;
+  height: 300px;
 }
