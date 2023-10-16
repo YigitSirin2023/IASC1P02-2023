@@ -1,0 +1,44 @@
+body{
+  background-color: red;
+
+  & p{
+    color: white;
+  }
+}
+
+#textsizeandpositon{
+    font-size: 30px;
+    position: fixed;
+    margin-left: 80%;
+}
+
+#textcolor{
+  color: blue;
+}
+
+#textfont{
+  font-family: fantasy;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+.mycontainer{
+  border:red 3px solid;
+  border-width: thin;
+  margin-right: 88%
+}
+
+#positionabsolute{
+  position: absolute;
+}
+
+#positionrelative{
+  position: relative;
+  margin-left: 25%
+}
+
+h1{
+  font-style: italic;
+}
