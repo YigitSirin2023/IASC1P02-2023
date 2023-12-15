@@ -1,4 +1,4 @@
-ul {
+.headredit{
   width: 100%;
   display: float;
   font-size: 30px;
@@ -11,7 +11,9 @@ ul {
   position: inherit;
 }
 
-p{
+
+
+.p1{
   background-color: white;
   color: #1B3159;
 }
@@ -22,17 +24,25 @@ li {
   padding-left: 10px;
 }
 
-li p2{
+
+
+.title{
   text-shadow: 5px 5px 5px black;
   font-size: 90px;
   display: block;
   color: #85C7F2;
   text-align: center;
-  padding: 80px;
+  padding: 60px;
+  padding-top: 0px;
+  margin-bottom: -150px;
+  background-color: inherit;
+  position: inherit;
 
 }
 
-li p {
+
+
+li .p1 {
   display: block;
   text-align: center;
   padding: 60px;
@@ -41,7 +51,7 @@ li p {
   color: inherit;
 }
 
-li p:hover{
+li .p1:hover{
 
   color: #85C7F2;
   background-color: #4c4c4c;
@@ -133,6 +143,8 @@ footer{
 form{
   max-width: 400px;
   margin: 0 auto;
+  font-family: Antic Didone;
+  font-size: 20px;
 }
 
 label{
